@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [FAQ You](README.md)
+* [The second page](the-second-page.md)
 
